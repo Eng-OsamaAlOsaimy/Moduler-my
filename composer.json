@@ -91,7 +91,8 @@
             "pestphp/pest-plugin": true,
             "php-http/discovery": true,
             "wikimedia/composer-merge-plugin": true
-        }
+        },
+        "process-timeout": 2000
     },
     "minimum-stability": "stable",
     "prefer-stable": true
